@@ -8,7 +8,7 @@ The frame work used is tailwind css with [Daisy UI](https://daisyui.com/) using 
 ## Form and Footer
 ![](./Assets/Images/p2.png)
 
-##Dashboard Chart
+## Dashboard Chart
 ![](./Assets/Images/p3.png)
 
 ## Result
