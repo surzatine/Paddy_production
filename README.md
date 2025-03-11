@@ -15,4 +15,4 @@ The frame work used is tailwind css with [Daisy UI](https://daisyui.com/) using 
 ![](./Assets/Images/p4.png)
 
 
-### To view, go to https://surzatine.github.io/Paddy_production/dashboard.html
+### To view, go to https://surzatine.github.io/Paddy_production/
